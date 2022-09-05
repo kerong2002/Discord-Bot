@@ -1,6 +1,6 @@
 import discord
 
-TOKEN = 'MTAxNjAxNTQzNjYxNTI1NDA3Ng.GTlrzV.UcBuK80WSeD7jh_Y0_JZKwFxqqwRC_4qUJu6i4'
+TOKEN = 'person'
 
 intent = discord.Intents.default()
 intent.message_content = True
