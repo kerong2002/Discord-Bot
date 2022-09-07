@@ -37,7 +37,7 @@ async def wordle(ctx, message):
     for y in range(0,5):
         for x in range(0,5):
             if (check[y] != 1 and user_guess[x]==answer[y]):
-                check[y] = 0
+                check[x] = 0
     returnString = ""
     cnt = 0
     for x in range(5):
