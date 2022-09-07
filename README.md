@@ -12,4 +12,11 @@ It is random Rock_Paper_Scissor Game, and play with a computer player.
 ## Wordle game 2022/09/07
 - File：Worlde folder  
 - Command：!wordle [User guess]  
-  
+- Rule:  
+1. The player has unlimited guess in the Wordle.
+2. Every word, which is entered should be in the word list.
+3. Every word only has five character.
+4. If the letter is correct, bot would sent player green emoji.
+5. If the letter is correct but placed wrong then bot would sent player yellow emoji.
+6. An incorrect letter bot would sent player white emoji
+7. Letters can be used more than one time
