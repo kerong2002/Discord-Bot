@@ -10,3 +10,6 @@
 - Command：!rps  
 It is random Rock_Paper_Scissor Game, and play with a computer player.
 ## Wordle game 2022/09/07
+- File：Worlde folder  
+- Command：!wordle [User guess]  
+  
