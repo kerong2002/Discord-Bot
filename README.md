@@ -6,7 +6,7 @@
 - File：main.py
 - Command：User sends $hi -> Bot sends Hello!
 ## rps game 2022/09/06
-- File：main.py
-- Command：!rps
+- File：main.py  
+- Command：!rps  
 It is random Rock_Paper_Scissor Game, and play with a computer player.
 ## Wordle game 2022/09/07
