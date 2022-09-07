@@ -17,8 +17,8 @@ async def on_ready():
 async def on_message(message):
     if message.author == client.user:
         return
-    if message.content.startswith('$Ken'):
-        await message.channel.send('Ken ejaculate!')
+    if message.content.startswith('$hi'):
+        await message.channel.send('Hello!')
 
 
 client.run(TOKEN)
