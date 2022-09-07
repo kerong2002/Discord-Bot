@@ -4,8 +4,8 @@
 
 ## Bot send text test 2022/09/05
 - File：main.py
-- Command
-User：$hi -> Bot : Hello!
+- Command：
+User sends $hi -> Bot sends Hello!
 ## rps game 2022/09/06
 
 ## Wordle game 2022/09/07
