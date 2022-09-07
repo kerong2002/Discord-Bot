@@ -1,2 +1,2 @@
 # Discord-Bot
-![](https://i.imgur.com/VQbeuk7.jpg)
+![](https://i.imgur.com/vvu4QsJ.gif)
